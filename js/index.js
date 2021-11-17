@@ -1,3 +1,4 @@
+// TODO modify the config section with your firebase info
 const firebaseConfig = {
     apiKey: "AIzaSyDwUpP6AQR8Mn0RbglCcN41T5sUpP8QAlc",
     authDomain: "fir-64a20.firebaseapp.com",
