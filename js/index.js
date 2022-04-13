@@ -1,12 +1,12 @@
 // TODO modify the config section with your firebase info
 const firebaseConfig = {
-  apiKey: "AIzaSyCSUEGMEL_VbKmSdYe2ay1ViiVg1ux_9uo",
-  authDomain: "testdatabase-316f2.firebaseapp.com",
-  projectId: "testdatabase-316f2",
-  storageBucket: "testdatabase-316f2.appspot.com",
-  messagingSenderId: "742662827036",
-  appId: "1:742662827036:web:f87a10568dcb56746203d9",
-  measurementId: "G-QZ33LZ695D"
+  apiKey: "AIzaSyDqhotdLuQxuhVDCnhue9cfsWwpBcxAGhI",
+  authDomain: "testdatabase-ea7ec.firebaseapp.com",
+  projectId: "testdatabase-ea7ec",
+  storageBucket: "testdatabase-ea7ec.appspot.com",
+  messagingSenderId: "766397467057",
+  appId: "1:766397467057:web:e8108a96d7ff7118bc9590",
+  measurementId: "G-1KDPCKR3CQ"
 };
 
 // Initialize Firebase
